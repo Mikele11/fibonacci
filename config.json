@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://Mikele11:face112358@ds251889.mlab.com:51889/usersboockwetelo",
+    "apiUrl": "https://fibonacci1.herokuapp.com/api",
+    "secret": "My secret"
+}

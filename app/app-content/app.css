@@ -1,0 +1,57 @@
+﻿body {
+    padding: 20px 0;
+}
+
+.flash-message {
+    margin-top: 20px;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 36px;
+}
+#data>div{
+	display:inline-block;
+}
+#data{
+	padding:4%;
+}
+.fibon{
+	height:25px;
+	border-radius:10px;
+}
+button{
+	height: 30px;
+	border-radius:14px;
+}
+.sendButton{
+	background:rgb(127, 255, 212);
+}
+.cancelButton{
+	background:rgb(255, 69, 0);
+}
+.rept{
+	padding:5px;
+	border-radius:5px;
+	width: 50%;
+    margin: 0 auto;
+    background: lightgray;
+	font-size: 14px;
+	margin-top: 5px;
+}
+#lastNumber>div{
+	display:inline-block;
+}
+#lastNumber>div:nth-of-type(2){
+	margin-left:1%;
+	font-weight:bold;
+}
+#lastNumber{
+	text-align: center;
+	margin-bottom: 2%;
+}
+#title>h1{
+	text-align:center;
+}
+#title>div{
+	text-align:center;
+}
